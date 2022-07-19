@@ -9,10 +9,10 @@
         <e p="Font" t="Include">
           <e p="readme.txt" t="Include" />
         </e>
-        <e p="MonsterData.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="CameraShake.cs" t="Include" />
           <e p="GameOver.cs" t="Include" />
+          <e p="MonsterData.cs" t="Include" />
           <e p="PlaceMonster.cs" t="Include" />
           <e p="Tutorial.cs" t="Include" />
         </e>

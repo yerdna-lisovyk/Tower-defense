@@ -5,21 +5,40 @@ using UnityEngine;
 public class PlaceMonster : MonoBehaviour
 {
     public GameObject monsterPrefab;
-    private GameObject monster;
+    private GameObject _monster;
     
     private bool CanPlaceMonster()
     {
-        return monster == null;
+        return _monster == null;
     }
 
-    private void OnMouseUp()
+    void OnMouseUp()
     {
-        if (!CanPlaceMonster()) return;
-        monster = (GameObject) 
-            Instantiate(monsterPrefab, transform.position, Quaternion.identity);
-        var audioSource = gameObject.GetComponent<AudioSource>();
-        audioSource.PlayOneShot(audioSource.clip);
+        //2
+        if (CanPlaceMonster())
+        {
+            //3
+            _monster = (GameObject) 
+                Instantiate(monsterPrefab, transform.position, Quaternion.identity);
+            //4
+            var audioSource = gameObject.GetComponent<AudioSource>();
+            audioSource.PlayOneShot(audioSource.clip);
 
-        // TODO: вычитать золото
+            // TODO: вычитать золото
+        } else if (CanUpgradeMonster())
+        {
+            _monster.GetComponent<MonsterData>().IncreaseLevel();
+            var audioSource = gameObject.GetComponent<AudioSource>();
+            audioSource.PlayOneShot(audioSource.clip);
+            
+            // TODO: вычитать золото
+        }
+    }
+    private bool CanUpgradeMonster()
+    {
+        if (_monster == null) return false;
+        var monsterData = _monster.GetComponent<MonsterData>();
+        var nextLevel = monsterData.GetNextLevel();
+        return nextLevel != null;
     }
 }

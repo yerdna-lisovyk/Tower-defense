@@ -22,40 +22,18 @@
     <list default="true" id="e07ff52c-87de-41e7-965e-13b21c1c7167" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Tower defense/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tower defense/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Tower defense/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tower defense/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Monster.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Monster.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Openspot.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Openspot.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/0b/0bef2f5c35ecfcfef3f705bcfdeace9b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/27/276ef312fadc22d776d466decf976a0a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/2a/2a93ba27653b2f2acc5c5504f1d95cd8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/2d/2da90e003920b9b9443199d29fb8bc7d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/4f/4f77f2a58b30fd6759ad8588ebab0d72" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/6f/6fe3312f39e78c9de56ef4002a49ed44" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/74/749138d595ffe7c6ab7fd56d576f4654" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/7a/7a9152d207b07828362d538c1633576d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b5/b53510ae5f5b92fbce467fb97d422ff3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/db/db1369ac3d662f252ddef701d0e11243" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e7/e731f219dbf10275bce589a1f24e737e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/fc/fca3390771744f3ba9df743de5ef93fa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MonsterData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MonsterData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlaceMonster.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlaceMonster.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/d1/d1bc84803508d57e608e193c88dc5f5f.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/d1/d1bc84803508d57e608e193c88dc5f5f.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe6.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/3e/3e4528bad19464b32fd3d58610549f28.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/3e/3e4528bad19464b32fd3d58610549f28.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/Assembly-CSharp.dll.hash" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/Assembly-CSharp.dll.hash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/CompilationLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/CompilationLog.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +44,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/MonsterData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonsterData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlaceMonster.cs" />
         <option value="$PROJECT_DIR$/Assets/MonsterData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MonsterData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlaceMonster.cs" />
       </list>
     </option>
   </component>
@@ -119,7 +98,16 @@
       <updated>1658134920111</updated>
       <workItem from="1658134927771" duration="480000" />
       <workItem from="1658228230684" duration="539000" />
+      <workItem from="1658228826320" duration="4585000" />
     </task>
+    <task id="LOCAL-00001" summary="Create place Monster">
+      <created>1658229155889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658229155889</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,9 +125,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Create place Monster" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create place Monster" />
   </component>
   <component name="WindowStateProjectService">
     <state x="593" y="332" key="Github.CreateGistDialog" timestamp="1658135114620">
@@ -150,5 +141,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1658134973062" />
+    <state x="93" y="93" width="1350" height="638" key="VCS.FileHistoryDialog" timestamp="1658229709338">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="VCS.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1658229709338" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1658229166816">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1658229166816" />
   </component>
 </project>
