@@ -53,13 +53,13 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraShake.cs" />
+     <Compile Include="Assets\Scripts\SpawnEnemy.cs" />
      <Compile Include="Assets\Scripts\PlaceMonster.cs" />
      <Compile Include="Assets\Scripts\Tutorial.cs" />
+     <Compile Include="Assets\Scripts\MoveEnemy.cs" />
+     <Compile Include="Assets\Scripts\GameManagerBehavior.cs" />
      <Compile Include="Assets\Scripts\GameOver.cs" />
      <Compile Include="Assets\Scripts\MonsterData.cs" />
-     <Compile Include="Assets\Scripts\GameManagerBehavior.cs" />
-     <Compile Include="Assets\Scripts\MoveEnemy.cs" />
-     <Compile Include="Assets\Scripts\SpawnEnemy.cs" />
      <None Include="Assets\Font\readme.txt" />
  <Reference Include="UnityEngine">
  <HintPath>F:/HUb/2020.3.25f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
