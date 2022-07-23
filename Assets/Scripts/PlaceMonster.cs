@@ -24,6 +24,7 @@ public class PlaceMonster : MonoBehaviour
         if (_monster == null) return false;
         var monsterData = _monster.GetComponent<MonsterData>();
         var nextLevel = monsterData.GetNextLevel();
+        if (nextLevel == null) return false;
         return _gameManager.Gold>= nextLevel.cost;
     }
     private void OnMouseUp()
