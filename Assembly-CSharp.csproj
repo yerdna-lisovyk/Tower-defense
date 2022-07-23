@@ -60,6 +60,7 @@
      <Compile Include="Assets\Scripts\GameManagerBehavior.cs" />
      <Compile Include="Assets\Scripts\GameOver.cs" />
      <Compile Include="Assets\Scripts\MonsterData.cs" />
+     <Compile Include="Assets\Scripts\HealthBar.cs" />
      <None Include="Assets\Font\readme.txt" />
  <Reference Include="UnityEngine">
  <HintPath>F:/HUb/2020.3.25f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
