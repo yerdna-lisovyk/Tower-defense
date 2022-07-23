@@ -13,6 +13,7 @@
           <e p="CameraShake.cs" t="Include" />
           <e p="GameManagerBehavior.cs" t="Include" />
           <e p="GameOver.cs" t="Include" />
+          <e p="HealthBar.cs" t="Include" />
           <e p="MonsterData.cs" t="Include" />
           <e p="MoveEnemy.cs" t="Include" />
           <e p="PlaceMonster.cs" t="Include" />
