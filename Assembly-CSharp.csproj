@@ -63,6 +63,7 @@
      <Compile Include="Assets\Scripts\MonsterData.cs" />
      <Compile Include="Assets\Scripts\EnemyDestructionDelegate.cs" />
      <Compile Include="Assets\Scripts\ShootEnemies.cs" />
+     <Compile Include="Assets\Scripts\BulletBehavior.cs" />
      <None Include="Assets\Font\readme.txt" />
  <Reference Include="UnityEngine">
  <HintPath>F:/HUb/2020.3.25f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
